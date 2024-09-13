@@ -19,7 +19,8 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 ## Lecture Materials (Download slides to your PC (or the links won't work!))
 
 1. Lecture slides: [Foundation](lecs/lec0.pdf)
-   - [Self-study: Debugging](labs/self-study.pptx)
+   - [How to Install Labpack](labpack-howto/labpack-howto.md)
+   - Lab tasks are appended at the end of the lecture slides. 
 2. Lecture slides: [Functions](lecs/lec1.pdf)
    - [Lab Tasks](labs/lab1_functions.pptx)
    - [Lab Files](labs/lab1.zip)
