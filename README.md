@@ -10,13 +10,16 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - Shannon Williams (shannon.williams@bristol.ac.uk)
    - Sherman Khoo (sherman.khoo@bristol.ac.uk)
 
+**Useful Links:**
+   - [How to Install Labpack](labpack-howto/labpack-howto.md)
+   - [Commandline Tips](commandline_tips/tips.md)
+   - [How to use VSCode on Mac](VS-code-for-mac.md)
+   - [ChatGPT Policy](misc/llm.md)
 -----------
-## Lecture Materials (Download slides to your PC before reading them!)
+## Lecture Materials (Download slides to your PC (or the links won't work!))
 
 1. Lecture slides: [Foundation](lecs/lec0.pdf)
-   - [How to Install Labpack](labpack-howto/labpack-howto.md), [Commandline Tips](commandline_tips/tips.md), [How to use VSCode on Mac](VS-code-for-mac.md)
-   - [ChatGPT Policy](misc/llm.md)
-   - [Lab Tasks](labs/pre-lab1-debugging.pptx)
+   - [Self-study: Debugging](labs/self-study.pptx)
 2. Lecture slides: [Functions](lecs/lec1.pdf)
    - [Lab Tasks](labs/lab1_functions.pptx)
    - [Lab Files](labs/lab1.zip)
