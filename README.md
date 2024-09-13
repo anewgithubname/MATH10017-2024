@@ -5,7 +5,10 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 **Lecturer**: Song Liu (song.liu@bristol.ac.uk), Matteo Fasiolo (matteo.fasiolo@bristol.ac.uk)
 
 **Teaching Assistants**: 
-   - 
+   - Aindrila Garai (xb24143@bristol.ac.uk)
+   - Josh Givens (josh.givens@bristol.ac.uk)
+   - Shannon Williams (shannon.williams@bristol.ac.uk)
+   - Sherman Khoo (sherman.khoo@bristol.ac.uk)
 
 -----------
 ## Lecture Materials (Download slides to your PC before reading them!)
