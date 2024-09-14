@@ -29,8 +29,8 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
-2. [The C Programming Language](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628), Brian Kernighan and Dennis Ritchie. 
-3. [Wikibooks: C Programming](https://en.wikibooks.org/wiki/C_Programming). 
+2. [The C Programming Language](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628), by Brian Kernighan and Dennis Ritchie, who invented the C language. 
+3. [Wikibooks: C Programming](https://en.wikibooks.org/wiki/C_Programming). Good reference book, if you want to look up something. 
 4. [COMS10008: Imperative Programming](http://people.cs.bris.ac.uk/~ian//COMS10008/)
    1. An excellent unit use to be taught by Dr. Ian Holyer in Computer Science department. 
 5. [C Programming under 4 hours](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=7521s) is a youtube video crash course designed for beginners. 
