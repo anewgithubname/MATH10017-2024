@@ -17,7 +17,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [ChatGPT Policy](misc/llm.md)
 -----------
 ## Lecture Materials (Download slides to your PC (or the links won't work!))
-
+[Last Year's Materials](https://github.com/anewgithubname/MATH10017-2023)
 1. Lecture slides: [Foundation](lecs/lec0.pdf)
    - [How to Install Labpack](labpack-howto/labpack-howto.md)
    - Lab tasks are appended at the end of the lecture slides. 
