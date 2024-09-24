@@ -23,10 +23,10 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - Lab tasks are appended at the end of the lecture slides. 
 2. Lecture slides: [Functions](lecs/lec1.pdf)
    - [Lab Tasks](labs/lab1_functions.pptx)
-   - [Lab Files](labs/lab1.zip)
-   - [Tutorial](tutorials/Tutorial%201.pptx)
+   - [Lab Files](labs/lab1.zip), [Lab Solutions](sols/lab1_sol.zip)
+   - [Tutorial](tutorials/Tutorial%201.pptx), [Tutorial Solutions](sols/tutorial_week1_solution.c)
 3. Lecture slides: [Conditional Statement and Loops](lecs/lec2.pdf)
-   - [Lab Files](labs/lab2.zip)
+   - [Lab Files](labs/lab2.zip),
 4. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
    - [Lab Files](labs/lab3.zip)
 
