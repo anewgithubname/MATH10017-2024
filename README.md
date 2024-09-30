@@ -30,6 +30,9 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 4. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
    - [Lab Files](labs/lab3.zip)
    - [Tutorial](tutorials/tutorial_controlflow.pdf), [Tutorial Solutions](sols/tutorial_controlflow_solutions/)
+5. Lecture slides: [Time Complextiy, Recursion and Function Memory Allocation](lecs/lec4.pdf)
+6. Lecture slides: [Arrays](lecs/lec5.pdf)
+   
 
 ## Extra Learning Materials
 
