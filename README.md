@@ -18,6 +18,9 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 -----------
 ## Lecture Materials (Download slides to your PC (or the links won't work!))
 [Last Year's Materials, may slightly differ from this year's.](https://github.com/anewgithubname/MATH10017-2023)
+
+[Lecture Replay](https://www.ole.bris.ac.uk/ultra/courses/_259201_1/outline/lti/launchFrame?toolHref=https:~2F~2Fwww.ole.bris.ac.uk~2Fwebapps~2Fblackboard~2Fexecute~2Fblti~2FlaunchPlacement%3Fblti_placement_id%3D_3169_1%26content_id%3D_8454928_1%26course_id%3D_259201_1%26wrapped%3Dtrue%26from_ultra%3Dtrue)
+
 1. Lecture slides: [Foundation](lecs/lec0.pdf)
    - [How to Install Labpack](labpack-howto/labpack-howto.md)
    - Lab tasks are appended at the end of the lecture slides. 
