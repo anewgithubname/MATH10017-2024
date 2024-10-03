@@ -31,7 +31,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Lab Files](labs/lab3.zip), [Solution](sols/lab3_sol.zip)
    - [Tutorial](tutorials/tutorial_controlflow.pdf), [Tutorial Solutions](sols/tutorial_controlflow_solutions/)
 5. Lecture slides: [Time Complextiy, Recursion and Function Memory Allocation](lecs/lec4.pdf)
-   - [Lab Files](labs/lab4.zip), 
+   - [Lab Files](labs/lab4.zip), [Solution:](sols/lab_4_prime.c)
    - [Tutorial: Recursion](tutorials/tutorial_recursion.pdf), do this only if you have time after the tutorial on arrays.
 6. Lecture slides: [Arrays](lecs/lec5.pdf)
    - [Lab Files](labs/lab5.zip)
