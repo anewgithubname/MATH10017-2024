@@ -37,7 +37,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Lab Files](labs/lab4.zip), [Solution:](sols/lab_4_prime.c)
    - [Tutorial: Recursion](tutorials/tutorial_recursion.pdf), do this only if you have time after the tutorial on arrays.
 6. Lecture slides: [Arrays](lecs/lec5.pdf)
-   - [Lab Files](labs/lab5.zip)
+   - [Lab Files](labs/lab5.zip), [Solution](sols/lab5_sol.zip)
    - [Tutorial: Array](tutorials/tutorial_arrays.pdf), [Tutorial code](tutorials/tutorial_arrays.c)
 7. Lecture slides: [Pointers 1](lecs/lec6.pdf)
    - [Lab Files](labs/lab6.zip)
