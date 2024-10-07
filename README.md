@@ -39,6 +39,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 6. Lecture slides: [Arrays](lecs/lec5.pdf)
    - [Lab Files](labs/lab5.zip)
    - [Tutorial: Array](tutorials/tutorial_arrays.pdf), [Tutorial code](tutorials/tutorial_arrays.c)
+7. Lecture slides: [Pointers 1](lecs/lec6.pdf)
+   - [Lab Files](labs/lab6.zip)
+8. Lecture slides: [Pointers 2](lecs/lec7.pdf)
+   - [Lab Files](labs/lab_7.zip)
    
 
 ## Extra Learning Materials
