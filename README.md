@@ -36,9 +36,11 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 5. Lecture slides: [Time Complextiy, Recursion and Function Memory Allocation](lecs/lec4.pdf)
    - [Lab Files](labs/lab4.zip), [Solution:](sols/lab_4_prime.c)
    - [Tutorial: Recursion](tutorials/tutorial_recursion.pdf), do this only if you have time after the tutorial on arrays.
+   - [Tutorial solutions](sols/tutorial_recursion_solution.c)
 6. Lecture slides: [Arrays](lecs/lec5.pdf)
    - [Lab Files](labs/lab5.zip), [Solution](sols/lab_5_sol.zip)
    - [Tutorial: Array](tutorials/tutorial_arrays.pdf), [Tutorial code](tutorials/tutorial_arrays.c)
+   - [Tutorial Solutions](sols/tutorial_arrays_solution.c)
 7. Lecture slides: [Pointers 1](lecs/lec6.pdf)
    - [Lab Files](labs/lab6.zip)
 8. Lecture slides: [Pointers 2](lecs/lec7.pdf)
