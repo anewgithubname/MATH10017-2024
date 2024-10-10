@@ -43,6 +43,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Lab Files](labs/lab6.zip)
 8. Lecture slides: [Pointers 2](lecs/lec7.pdf)
    - [Lab Files](labs/lab_7.zip)
+   - [Tutorial: Arrays2](tutorials/tutorial_arrays2.pdf)
    
 
 ## Extra Learning Materials
