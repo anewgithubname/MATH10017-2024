@@ -42,9 +42,11 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 7. Lecture slides: [Pointers 1](lecs/lec6.pdf)
    - [Lab Files](labs/lab6.zip)
 8. Lecture slides: [Pointers 2](lecs/lec7.pdf)
-   - [Lab Files](labs/lab_7.zip)
+   - [Lab Files](labs/lab7.zip)
    - [Tutorial: Arrays2](tutorials/tutorial_arrays2.pdf) (question 1 only. question 2 is for the next week.)
-   
+9. Lecture slides: [Sturcture and I/O](lecs/lec8.pdf)
+   - [Lab Files](labs/lab8.zip)
+   - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip)
 
 ## Extra Learning Materials
 
