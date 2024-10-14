@@ -1,7 +1,8 @@
-N: ____, M: ____
-L: ____
+N: omitted, M: omitted
+L: omitted
 
 five corrupted images--------------------------------
+
 M M  MMMM MM   MM   M      M
  MM  MM MM  MM  MM MM  M MMM
 M MM MMMMMM MM MM  MM M  M
@@ -10,7 +11,7 @@ MMM   M M MM M M  M M    MMM
 MMMMM  MMMMMM MM MM  MMMM
   M MM  MMMM M  MM M M  M MM
 M  M M MMMM  MMMMMIMM    MMM
- M    MM MMIMMMMMMMMM  MM   
+ M    MM MMIMMMMMMMMM  MM
 MM MMM   M MMM M MMMMMMMM MM
    MMMM MMMMMM  IMMM     M
  MMMMM MIMMMM  MMMM     MMM
@@ -30,37 +31,9 @@ MM M    M M MMMMMM  M M MMMM
 MM MM M  MMMMM MMM  M  M
   M  MM   MMMM MIMMM M MM MM
 M   M  M  MMMM MMMM MMM M  M
-other images omitted...
-five clean images------------------------------------
-
-
-
-
-
-           M
-          IM       II
-          MM       IM
-          MI       IM
-         MM        MM
-        IM         MM
-        MM        IMM
-       IMI        MM
-       MM        IMM
-       MI        IMI
-       MM        MMI
-       IMMIIIIIIMMMI
-        MMMMMMMMMMM
-                IMM
-                IMM
-                IMM
-                IMM
-                IMM
-                MMI
-                M
-
-
 
 other images omitted...
+
 after restoration
 
 
@@ -89,5 +62,5 @@ after restoration
              IMII
              III
               I
-
+                            
 other images omitted...
