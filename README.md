@@ -47,7 +47,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 9. Lecture slides: [Sturcture and I/O](lecs/lec8.pdf)
    - [Lab Files](labs/lab8.zip), [student.c](sols/student.c)
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip)
-   - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt)
+   - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip)
 
 ## Extra Learning Materials
 
