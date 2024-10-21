@@ -45,7 +45,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Lab Files](labs/lab7.zip) - [Solution](sols/lab_7_sol.zip)
    - [Tutorial: Arrays2](tutorials/tutorial_arrays2.pdf) (question 1 only. question 2 is for the next week.)
 9. Lecture slides: [Sturcture and I/O](lecs/lec8.pdf)
-   - [Lab Files](labs/lab8.zip), [student.c](sols/student.c), [Solution](sols/lab_8_sol.zip)
+   - [Lab Files](labs/lab8.zip), [Solution](sols/lab_8_sol.zip)
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip), [Solution](sols/lab_9_sol.zip)
    - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip)
 
