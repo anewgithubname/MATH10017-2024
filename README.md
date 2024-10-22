@@ -43,7 +43,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Lab Files](labs/lab6.zip), - [Solution](sols/lab_6_sol.zip)
 8. Lecture slides: [Pointers 2](lecs/lec7.pdf)
    - [Lab Files](labs/lab7.zip) - [Solution](sols/lab_7_sol.zip)
-   - [Tutorial: Arrays2](tutorials/tutorial_arrays2.pdf) (question 1 only. question 2 is for the next week.)
+   - [Tutorial: Arrays2](tutorials/tutorial_arrays2.pdf), [Solution](sols/tutorial_arrays_solution.c)
 9. Lecture slides: [Sturcture and I/O](lecs/lec8.pdf)
    - [Lab Files](labs/lab8.zip), [Solution](sols/lab_8_sol.zip)
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip), [Solution](sols/lab_9_sol.zip)
