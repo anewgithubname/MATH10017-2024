@@ -48,6 +48,9 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Lab Files](labs/lab8.zip), [Solution](sols/lab_8_sol.zip)
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip), [Solution](sols/lab_9_sol.zip)
    - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip)
+10. Lecture slides: [OOP and C++](lecs/lec10.pdf)
+    - [Lab Files](labs/lab10.zip), <!--- [Solution](sols/lab10_sol.zip) --->
+    - [Tutorial: sorting](Tut_week_7.zip)
 
 ## Extra Learning Materials
 
