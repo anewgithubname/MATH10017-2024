@@ -48,11 +48,16 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Lab Files](labs/lab8.zip), [Solution](sols/lab_8_sol.zip)
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip), [Solution](sols/lab_9_sol.zip)
    - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip)
-10. Lecture slides: [OOP and C++](lecs/lec_10.pdf)
+10. Lecture slides: [OOP and C++](lecs/lec10.pdf)
     - [Lab Files](labs/lab10.zip),
-11. Lecture slides: [OOP and C++ part II](lecs/lec_11.pdf)
+11. Lecture slides: [OOP and C++ part II](lecs/lec11.pdf)
     - [Lab Files](labs/lab11.zip),
     - [Tutorial: sorting](tutorials/Tut_week_7.zip)
+12. Lecture slides: [Search Algorithms](lecs/lec12.pdf)
+    - [Lab Files](labs/lab12.zip),
+13. Lecture slides: [Iterative Algorithms](lecs/lec13.pdf)
+    - [Lab Files](labs/lab13.zip),
+    - [Tutorial: Constructing a Symmetric Matrix Class](tutorials/Tut_week_8.zip)
 
 
 ## Extra Learning Materials
