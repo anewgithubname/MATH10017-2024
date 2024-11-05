@@ -49,10 +49,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip), [Solution](sols/lab_9_sol.zip)
    - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip)
 10. Lecture slides: [OOP and C++](lecs/lec10.pdf)
-    - [Lab Files](labs/lab10.zip),
+    - [Lab Files](labs/lab10.zip), [Solution](sols/lab10_sol.zip)
 11. Lecture slides: [OOP and C++ part II](lecs/lec11.pdf)
-    - [Lab Files](labs/lab11.zip),
-    - [Tutorial: sorting](tutorials/Tut_week_7.zip)
+    - [Lab Files](labs/lab11.zip), [Solution](sols/lab11_sol.zip)
+    - [Tutorial: sorting](tutorials/Tut_week_7.zip), [Solution](sols/Tut_Week_7_sol.zip)
 12. Lecture slides: [Search Algorithms](lecs/lec12.pdf)
     - [Lab Files](labs/lab12.zip),
 13. Lecture slides: [Iterative Algorithms](lecs/lec13.pdf)
