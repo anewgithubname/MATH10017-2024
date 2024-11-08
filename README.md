@@ -47,7 +47,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 9. Lecture slides: [Sturcture and I/O](lecs/lec8.pdf)
    - [Lab Files](labs/lab8.zip), [Solution](sols/lab_8_sol.zip)
    - [Matrix Ops](labs/lab9.pdf), [Lab Files](labs/lab9.zip), [Solution](sols/lab_9_sol.zip)
-   - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip)
+   - [CW1](lecs/lec9.pdf), [Example Output](labs/out.txt), [CW1 Files](labs/cw1.zip), [CW1 Solution](sols/cw1_sol.c)
 10. Lecture slides: [OOP and C++](lecs/lec10.pdf)
     - [Lab Files](labs/lab10.zip), [Solution](sols/lab10_sol.zip)
 11. Lecture slides: [OOP and C++ part II](lecs/lec11.pdf)
