@@ -58,6 +58,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 13. Lecture slides: [Iterative Algorithms](lecs/lec13.pdf)
     - [Lab Files](labs/lab13.zip),
     - [Tutorial: Constructing a Symmetric Matrix Class](tutorials/Tut_week_8.zip)
+14. Lecture slides: [Introduction to R](lecs/lec14.pdf)
+    - [Lab Files](labs/lab14.zip),
+13. Lecture slides: [Vectors and Matrices in R](lecs/lec15.pdf)
+    - [Tutorial: Plotting in R](tutorials/Tut_week_9.pdf)
 
 
 ## Extra Learning Materials
