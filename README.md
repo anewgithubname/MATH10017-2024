@@ -53,10 +53,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 11. Lecture slides: [OOP and C++ part II](lecs/lec11.pdf)
     - [Lab Files](labs/lab11.zip), [Solution](sols/lab11_sol.zip)
     - [Tutorial: sorting](tutorials/Tut_week_7.zip), [Solution](sols/Tut_Week_7_sol.zip)
-12. Lecture slides: [Search Algorithms](lecs/lec12.pdf), [Solution](sols/lab_12_sol.zip)
-    - [Lab Files](labs/lab12.zip),
-13. Lecture slides: [Iterative Algorithms](lecs/lec13.pdf), [Solution](sols/lab_13_sol.zip)
-    - [Lab Files](labs/lab13.zip),
+12. Lecture slides: [Search Algorithms](lecs/lec12.pdf)
+    - [Lab Files](labs/lab12.zip), [Solution](sols/lab_12_sol.zip)
+13. Lecture slides: [Iterative Algorithms](lecs/lec13.pdf)
+    - [Lab Files](labs/lab13.zip), [Solution](sols/lab_13_sol.zip)
     - [Tutorial: Constructing a Symmetric Matrix Class](tutorials/Tut_week_8.zip), [Solution](sols/Tut_week_8_sol.zip)
 14. Lecture slides: [Introduction to R](lecs/lec14.pdf)
     - [Lab Files](labs/lab14.zip),
