@@ -62,6 +62,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
     - [Lab Files](labs/lab14.zip),
 13. Lecture slides: [Vectors and Matrices in R](lecs/lec15.pdf)
     - [Tutorial: Plotting in R](tutorials/Tut_week_9.pdf)
+14. Lecture slides: [Speeding up R](lecs/lec16.pdf)
+13. Lecture slides: [Lists and functional programming in R](lecs/lec17.pdf)
+    - [Lab Files](labs/lab17.Rmd),
+    - [Tutorial: Rejection sampling in R](tutorials/Tut_week_10.pdf)
 
 
 ## Extra Learning Materials
