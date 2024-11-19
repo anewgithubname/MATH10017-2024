@@ -59,11 +59,12 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
     - [Lab Files](labs/lab13.zip), [Solution](sols/lab_13_sol.zip)
     - [Tutorial: Constructing a Symmetric Matrix Class](tutorials/Tut_week_8.zip), [Solution](sols/Tut_week_8_sol.zip)
 14. Lecture slides: [Introduction to R](lecs/lec14.pdf)
-    - [Lab Files](labs/lab14.zip),
-13. Lecture slides: [Vectors and Matrices in R](lecs/lec15.pdf)
-    - [Tutorial: Plotting in R](tutorials/Tut_week_9.pdf)
-14. Lecture slides: [Speeding up R](lecs/lec16.pdf)
-13. Lecture slides: [Lists and functional programming in R](lecs/lec17.pdf)
+    - [Lab Files](labs/lab14.zip), [Solution](sols/lab_14_sol.zip)
+15. Lecture slides: [Vectors and Matrices in R](lecs/lec15.pdf)
+    - [Lab Solution](sols/lab_15_sol.R)
+    - [Tutorial: Plotting in R](tutorials/Tut_week_9.pdf), [Solution](sols/Tut_week_9_sol.R)
+16. Lecture slides: [Speeding up R](lecs/lec16.pdf)
+17. Lecture slides: [Lists and functional programming in R](lecs/lec17.pdf)
     - [Lab Files](labs/lab17.Rmd),
     - [Tutorial: Rejection sampling in R](tutorials/Tut_week_10.pdf)
 
