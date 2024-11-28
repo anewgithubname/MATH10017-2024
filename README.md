@@ -68,6 +68,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 17. Lecture slides: [Lists and functional programming in R](lecs/lec17.pdf)
     - [Lab Files](labs/lab17.Rmd), [Solution](sols/lab_17_sol.pdf)
     - [Tutorial: Rejection sampling in R](tutorials/Tut_week_10.pdf), [Solution](sols/Tut_week_10_sol.R)
+18. [Exam preparation](exam_preparation.pdf)
 
 
 ## Extra Learning Materials
