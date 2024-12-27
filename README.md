@@ -69,7 +69,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
     - [Lab Files](labs/lab17.Rmd), [Solution](sols/lab_17_sol.pdf)
     - [Tutorial: Rejection sampling in R](tutorials/Tut_week_10.pdf), [Solution](sols/Tut_week_10_sol.R)
 18. [Exam preparation](exam_preparation.pdf)
-
+19. [Solution to Coursework 2](sols/cw_2_sol.pdf)
 
 ## Extra Learning Materials
 
